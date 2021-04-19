@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BTN_defult">
+        <item name="android:layout_width">30pt</item>
+        <item name="android:layout_height">25pt</item>
+        <item name="android:layout_weight">0.1</item>
+        <item name="android:background">@color/dark_blue</item>
+        <item name="android:layout_margin">1px</item>
+        <item name="android:textSize">26dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="BTN_defult_right">
+        <item name="android:layout_width">30pt</item>
+        <item name="android:layout_height">25pt</item>
+        <item name="android:layout_weight">0.1</item>
+        <item name="android:background">@color/purple</item>
+        <item name="android:layout_margin">1px</item>
+        <item name="android:textSize">26dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="BTN_defult_right_last">
+        <item name="android:layout_width">30pt</item>
+        <item name="android:layout_height">25pt</item>
+        <item name="android:layout_weight">0.1</item>
+        <item name="android:background">@color/yellow</item>
+        <item name="android:layout_margin">1px</item>
+        <item name="android:textSize">26dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+
+
+</resources>
